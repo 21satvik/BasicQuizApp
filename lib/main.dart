@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Max', 'score': 1},
         {'text': 'Max', 'score': 1},
         {'text': 'Max', 'score': 1},
-        {'text': 'Min', 'score': 2},
+        {'text': 'Min', 'score': 1},
       ],
     },
   ];
